@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Mahedi Hassan Mamun</h1>
-<h3 align="center">Computer science student with strong technical proficiency and a strong work history in Full Stack Web</h3>
+<h3 align="center">Computer science Oriented student with strong technical proficiency and a strong work history in Full Stack Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmamun6316&label=Profile%20views&color=0e75b6&style=flat" alt="mhmamun6316" /> </p>
 
