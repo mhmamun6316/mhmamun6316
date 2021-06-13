@@ -1,5 +1,7 @@
 
 
+<img align="right" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" >
+
 <h1 align="center">Hi there👋, I'm Mahedi Hassan Mamun</h1>
 <h3 align="center">Computer science student with strong technical proficiency and a strong work history in Full Stack Web</h3>
 
