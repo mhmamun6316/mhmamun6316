@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmamun6316&label=Profile%20views&color=0e75b6&style=flat" alt="mhmamun6316" /> </p>
 
-- 🔭 I’m currently working on **building a web application using laravel**
+- 🔭 I’m currently working on **building an web application using laravel**
 
 - 🌱 I’m currently learning **laravel**
 
